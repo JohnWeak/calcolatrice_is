@@ -25,5 +25,11 @@ public class Calcolatrice
 	{
 		return a*b;
 	}
+
+	public int divisione(int a, int b)
+	{
+
+		return a/b;
+	}
 	
 } // fine classe Calcolatrice
