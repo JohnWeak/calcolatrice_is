@@ -31,5 +31,10 @@ public class Calcolatrice
 
 		return a/b;
 	}
+
+	public int qualc ()
+	{
+		return 0;
+	}
 	
 } // fine classe Calcolatrice
