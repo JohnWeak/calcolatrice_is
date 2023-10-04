@@ -49,4 +49,10 @@ public class Calcolatrice
 	}
 	
 	
+	public int qualcosa()
+	{
+		return 2;
+	}
+	
+	
 } // fine classe Calcolatrice
